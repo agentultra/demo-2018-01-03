@@ -1,0 +1,16 @@
+{
+  "name": "first",
+  "version": "0.0.1",
+  "description": "First",
+  "main": "index.js",
+  "repository": "git@github.com:agentultra/demo-2017-11-05.git",
+  "author": "James King <james@agentultra.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+      "start": "http-server src/ -o"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
